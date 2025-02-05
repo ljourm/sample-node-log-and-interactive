@@ -1,0 +1,9 @@
+{
+  "name": "sample-node-interactive-logger",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ljourm/sample-node-interactive-logger.git",
+  "author": "ljourm <ljourm@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
