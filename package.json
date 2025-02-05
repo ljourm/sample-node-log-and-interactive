@@ -9,5 +9,9 @@
   "devDependencies": {
     "tsx": "^4.19.2",
     "typescript": "^5.7.3"
+  },
+  "dependencies": {
+    "pino": "^9.6.0",
+    "pino-pretty": "^13.0.0"
   }
 }
